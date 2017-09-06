@@ -1,7 +1,7 @@
 # EXPERIMENTAL RUBY FOLDER
 ---
 
-A sketchpad for RUBY language experiments.
+Experimental Ruby projects.
 
 ---
 *Daniel Paul Grech Pereira 2017*
