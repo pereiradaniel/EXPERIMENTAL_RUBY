@@ -1,7 +1,7 @@
-# EXPERIMENTAL RUBY FOLDER
+# EXPERIMENTAL RUBY PROJECTS FOLDER
 ---
 
-Experimental Ruby projects.
+Description:  Experimental Ruby projects.
 
 ---
 *Daniel Paul Grech Pereira 2017*
