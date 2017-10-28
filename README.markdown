@@ -3,7 +3,7 @@
 
 
 ## A sketchpad for RUBY language experiments.
-Description:  Experimental Ruby projects.
+Some of these are Ruby experiments from online tutorials or instructions.  In those cases, I will provide links to resources.
 
 ## FOLDER CONTENTS
 
