@@ -13,4 +13,4 @@ These are taken from the Ruby Monk website.
 
 
 ---
-*Daniel Paul Grech Pereira 2017*
+_*Daniel Paul Grech Pereira 2017*_
