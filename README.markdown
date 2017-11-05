@@ -13,4 +13,5 @@ These are taken from the Ruby Monk website.
 
 
 ---
+[@pereirawebdev](https://twitter.com/pereirawebdev)
 _*Daniel Paul Grech Pereira 2017*_
