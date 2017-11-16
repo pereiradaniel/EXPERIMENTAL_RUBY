@@ -1,3 +1,5 @@
+# Dice project
+
 class DiceSet
   def roll(num)
     @values = []

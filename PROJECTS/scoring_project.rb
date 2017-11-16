@@ -1,4 +1,5 @@
-
+# Scoring project
+  
 def score(dice)
   # Set score to 0
   score = 0
