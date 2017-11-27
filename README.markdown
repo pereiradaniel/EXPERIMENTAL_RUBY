@@ -1,5 +1,4 @@
 # EXPERIMENTAL RUBY PROJECTS FOLDER
----
 
 
 ## A sketchpad for RUBY language experiments.
