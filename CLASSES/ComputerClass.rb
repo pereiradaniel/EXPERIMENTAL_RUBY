@@ -1,3 +1,5 @@
+# EXAMPLE FROM RUBY COURSE ON CODECADEMY
+
 # Creates computer class
 class Computer
   # Creates class level variable ussers and assigns to it an empty hash
