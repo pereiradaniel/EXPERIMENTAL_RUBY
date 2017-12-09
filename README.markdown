@@ -13,7 +13,6 @@ These are taken from the [Ruby Monk](https://rubymonk.com) website.
 ---
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
-
 [GitPage](https://pereiradaniel.github.io)
 
 _*Daniel Paul Grech Pereira 2017*_
