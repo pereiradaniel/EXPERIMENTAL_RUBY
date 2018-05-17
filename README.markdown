@@ -20,5 +20,6 @@ These are experiments taken or inspired by material from the Codecademy Ruby cou
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
 [GitPage](https://pereiradaniel.github.io)
+[blogLink](https://pereirawebdev.blogspot.ca)
 
 _*Daniel Paul Grech Pereira 2017*_
